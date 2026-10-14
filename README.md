@@ -2,7 +2,7 @@
 
 **Consulta los autobuses de Jerez sin complicarte.**
 
-Una app independiente para consultar líneas, encontrar paradas cercanas y preparar tus trayectos. Creada ante la carencia de una buena app de autobuses por parte del Ayuntamiento de Jerez, con una idea sencilla: saber dónde coger el bus, a qué hora sale y dónde bajarte.
+Una app independiente para consultar líneas, encontrar paradas cercanas y preparar tus trayectos. Nace de una idea sencilla: saber dónde coger el bus, a qué hora sale y dónde bajarte.
 
 ### [👉 Abrir Jerez Bus](https://jerez-bus-facil.andreszambranalinare.chatgpt.site)
 
@@ -62,7 +62,7 @@ Esta aplicación es un proyecto independiente y no representa al Ayuntamiento, a
 
 ## Código y desarrollo
 
-El repositorio incluye **`jerez-bus-source.zip`**, con el código de la versión 16 publicada el **1 de octubre de 2026**. El código está distribuido dentro del ZIP; todavía no aparece descomprimido como carpetas en el repositorio.
+El código está disponible directamente en las carpetas del repositorio y corresponde a la versión 16 publicada el **1 de octubre de 2026**. La web enlazada puede incorporar actualizaciones posteriores.
 
 ### Requisitos
 
@@ -71,7 +71,7 @@ El repositorio incluye **`jerez-bus-source.zip`**, con el código de la versión
 
 ### Ejecutar en local
 
-Descarga `jerez-bus-source.zip`, extráelo y abre una terminal en la carpeta que contiene `package.json`:
+Clona este repositorio y abre una terminal en la carpeta que contiene `package.json`:
 
 ```sh
 pnpm install
@@ -99,7 +99,7 @@ pnpm build
 | `lib/` | Lógica de trayectos, favoritos, horarios y datos de consulta. |
 | `public/` | Iconos y recursos públicos. |
 
-El ZIP no incluye dependencias instaladas, credenciales ni archivos de compilación. Tampoco incluye la configuración que vincula el proyecto con su alojamiento actual. Para desplegarlo en otro servicio, configura un entorno compatible con las rutas del servidor; publicar únicamente archivos estáticos no cubre todas sus funciones.
+El repositorio no incluye dependencias instaladas, credenciales ni archivos de compilación. Tampoco incluye la configuración que vincula el proyecto con su alojamiento actual. Para desplegarlo en otro servicio, configura un entorno compatible con las rutas del servidor; publicar únicamente archivos estáticos no cubre todas sus funciones.
 
 ## Ayuda a mejorar Jerez Bus
 

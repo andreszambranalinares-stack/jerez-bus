@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ia-ida",
+    "name": "Institutos A · Ida desde Angustias",
+    "code": "IN A",
+    "kind": "instituto",
+    "sourceUrl": "https://www.comujesa.es/autobuses-urbanos/lineas-paradas-y-horarios/especial-institutos",
+    "verifiedAt": "2026-09-30T12:58:07.757631+00:00",
+    "notice": "Solo días lectivos del curso 2026–27. No circula en fines de semana, festivos ni vacaciones escolares."
+  },
+  {
+    "id": "ia-casinos",
+    "name": "Institutos A · Vuelta desde Casinos",
+    "code": "IN A",
+    "kind": "instituto",
+    "sourceUrl": "https://www.comujesa.es/autobuses-urbanos/lineas-paradas-y-horarios/especial-institutos",
+    "verifiedAt": "2026-09-30T12:58:07.757631+00:00",
+    "notice": "Solo días lectivos del curso 2026–27. No circula en fines de semana, festivos ni vacaciones escolares."
+  },
+  {
+    "id": "ia-granja",
+    "name": "Institutos A · Vuelta desde La Granja",
+    "code": "IN A",
+    "kind": "instituto",
+    "sourceUrl": "https://www.comujesa.es/autobuses-urbanos/lineas-paradas-y-horarios/especial-institutos",
+    "verifiedAt": "2026-09-30T12:58:07.757631+00:00",
+    "notice": "Solo días lectivos del curso 2026–27. No circula en fines de semana, festivos ni vacaciones escolares."
+  },
+  {
+    "id": "ib-ida",
+    "name": "Institutos B · Ida desde Angustias",
+    "code": "IN B",
+    "kind": "instituto",
+    "sourceUrl": "https://www.comujesa.es/autobuses-urbanos/lineas-paradas-y-horarios/especial-institutos",
+    "verifiedAt": "2026-09-30T12:58:07.757631+00:00",
+    "notice": "Solo días lectivos del curso 2026–27. No circula en fines de semana, festivos ni vacaciones escolares."
+  },
+  {
+    "id": "ib-vuelta",
+    "name": "Institutos B · Vuelta desde Elena G. Armada",
+    "code": "IN B",
+    "kind": "instituto",
+    "sourceUrl": "https://www.comujesa.es/autobuses-urbanos/lineas-paradas-y-horarios/especial-institutos",
+    "verifiedAt": "2026-09-30T12:58:07.757631+00:00",
+    "notice": "Solo días lectivos del curso 2026–27. No circula en fines de semana, festivos ni vacaciones escolares. El cartel oficial sitúa El Encinar a las 15:12 y la siguiente parada a las 15:11; ese dato necesita confirmación de COMUJESA."
+  }
+]
